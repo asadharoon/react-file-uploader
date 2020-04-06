@@ -1,0 +1,13 @@
+.row {
+    border: 2px solid black;
+    padding: 20px;
+    margin: 10px;
+    line-height: 20px;
+    text-align: center;
+    display: block;
+}
+
+
+* {
+    background-color: lemonchiffon;
+}
